@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Refactoring_Exercise1/v16/TestStore/0/testlog.manifest
+/.vs/Refactoring_Exercise1/v16/TestStore/0/000.testlog
+/.vs/Refactoring_Exercise1/v16/.suo
+/.vs/Refactoring_Exercise1/DesignTimeBuild/.dtbcache.v2
+/Refactoring_Exercise1/bin/Debug/netstandard2.0
+/Refactoring_Exercise1/obj
